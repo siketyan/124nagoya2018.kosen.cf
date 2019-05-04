@@ -1,0 +1,55 @@
+body {
+  font-family: BlinkMacSystemFont, -apple-system,
+               "Yu Gothic UI", "M PLUS 1p",
+               "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+               "Cantarell","Fira Sans", "Droid Sans",
+               "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+code {
+  font-family: "Consolas", monospace;
+}
+
+.little-left-margin {
+  margin-left: 0.5rem;
+}
+
+.top-margin {
+  margin-top: 1.0rem;
+}
+
+.little-top-margin {
+  margin-top: 0.6rem !important;
+}
+
+.reduce-bottom-margin {
+  margin-bottom: 0.75rem !important;
+}
+
+.button {
+  transition: all 0.2s ease;
+}
+
+.button:hover {
+  transition: all 0.2s ease;
+}
+
+.media.is-compact {
+  margin-top: 0.3rem;
+  padding: 0;
+  border: none;
+}
+
+.youtube-embed {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.youtube-embed iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
