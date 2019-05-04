@@ -1,7 +1,7 @@
 <?php
   $links = [
     "tweet" => "https://twitter.com/intent/tweet?text=%E9%AB%98%E5%B0%82%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%20in%20%E5%90%8D%E5%8F%A4%E5%B1%8B%202018&url=https%3A%2F%2F124nagoya2018.kosen.cf&hashtags=kosenconf%2Ckosenconf124nagoya2018&related=Ymgn_Bass",
-    "map" => "https://www.google.com/maps/embed/v1/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E6%9D%B1%E5%8C%BA%E6%9D%B1%E6%A1%9C2%E4%B8%81%E7%9B%AE3%E7%95%AA7%E5%8F%B7%28%E6%9D%B1%E3%82%AB%E3%83%B3%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%83%BC%E3%83%AB%29&key=AIzaSyC5g64WfjB0_6RNKTf_WT_m_tJNQYUrd68",
+    "map" => "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.309926630484!2d136.91592781554138!3d35.17382716523831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600370dc1a82dd29%3A0x7c11a57882aff772!2z5p2x44Kr44Oz5ZCN5Y-k5bGL44Kt44Oj44K544OG44O844Or!5e0!3m2!1sen!2sjp!4v1556971850739!5m2!1sen!2sjp",
     "youtube" => "https://www.youtube.com/channel/UCGZ9qbTw9isdB-izVjQDzxA"
   ];
 
